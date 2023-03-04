@@ -18,7 +18,7 @@ For our purposes, we're going to think of it as a way to sync changes we made to
       d. [Push that edit](https://github.com/chris-alexiuk/GitGood-GitPush) to your remote!
   3. Now that you've got that change on your remote repository, you should see a new banner!
   
-      ![image](https://user-images.githubusercontent.com/114439245/222870323-f8f3932f-ec65-4815-b93a-297cc1f5256e.png)
+      ![image](https://user-images.githubusercontent.com/114439245/222871910-cc4cb012-5ad6-404c-9d59-c48439499aad.png)
 
   4. You'll want to go ahead and create that pull request!
   
