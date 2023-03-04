@@ -29,3 +29,8 @@ For our purposes, we're going to think of it as a way to sync changes we made to
   6. After that, there are a number of interesting things you can do - and you can check those out in the video, or through the documentation!
   
 **You're all done!** :tada:
+
+
+## Names Here:
+
+Chris :tada:
