@@ -30,7 +30,6 @@ For our purposes, we're going to think of it as a way to sync changes we made to
   
 **You're all done!** :tada:
 
-
 ## Your name here:
 
 Chris :tada:
